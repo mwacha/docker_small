@@ -1,3 +1,6 @@
-# Desafio FullCycle
+### FullCycle Challenge
 
-- Imagem com menos de 2 megas  
+- Image less than 2 mb
+
+### Docker Hub Image
+- docker push mwacha/go_challenge:tagname
